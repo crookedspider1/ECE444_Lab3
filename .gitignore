@@ -1,0 +1,5 @@
+#macos local file
+.DS_Store
+
+#pycache
+__pycache__
